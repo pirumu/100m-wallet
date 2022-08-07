@@ -1,0 +1,10 @@
+export const COINS = {
+  BIP44: {
+    BITCOIN: 0,
+    BITCOIN_TESTNET: 0,
+    BITCOIN_CASH: 0,
+    BITCOIN_CASH_TESTNET: 0,
+    ETHEREUM: 0,
+    ETHEREUM_TESTNET: 0,
+  },
+};
